@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "k0jjA6Un6lM9ECCwZZH9ZTy0wlMn+Uj1VVbxcqSpP3QNLnCr53YZTdZMJXGGE9x3j2E939XHazAW7tLSxrSWng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aguil\\OneDrive\\Escritorio\\Programacion Visual\\Ejercicios\\DbPostgreUno\\DbPostgreUno\\DbPostgreUno.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aguil\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\aguil\\.nuget\\packages\\npgsql\\6.0.3\\npgsql.6.0.3.nupkg.sha512",
+    "C:\\Users\\aguil\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

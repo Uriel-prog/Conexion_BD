@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbPostgreUno", "DbPostgreUno\DbPostgreUno.csproj", "{DC3EF49F-04EC-4270-877F-DABB3B0ED2AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CB6F5709-F3D1-4A5A-B2BF-B9D6FAD74153}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC3EF49F-04EC-4270-877F-DABB3B0ED2AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC3EF49F-04EC-4270-877F-DABB3B0ED2AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC3EF49F-04EC-4270-877F-DABB3B0ED2AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC3EF49F-04EC-4270-877F-DABB3B0ED2AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65150C6C-84DF-494D-BA5F-FEEB98083D2B}
+	EndGlobalSection
+EndGlobal

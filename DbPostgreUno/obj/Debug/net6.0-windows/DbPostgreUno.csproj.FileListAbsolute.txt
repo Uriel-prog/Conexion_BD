@@ -1,0 +1,40 @@
+C:\Users\Latitude\source\repos\DbPostgreUno\DbPostgreUno\bin\Debug\net6.0-windows\DbPostgreUno.exe
+C:\Users\Latitude\source\repos\DbPostgreUno\DbPostgreUno\bin\Debug\net6.0-windows\DbPostgreUno.deps.json
+C:\Users\Latitude\source\repos\DbPostgreUno\DbPostgreUno\bin\Debug\net6.0-windows\DbPostgreUno.runtimeconfig.json
+C:\Users\Latitude\source\repos\DbPostgreUno\DbPostgreUno\bin\Debug\net6.0-windows\DbPostgreUno.dll
+C:\Users\Latitude\source\repos\DbPostgreUno\DbPostgreUno\bin\Debug\net6.0-windows\DbPostgreUno.pdb
+C:\Users\Latitude\source\repos\DbPostgreUno\DbPostgreUno\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\Latitude\source\repos\DbPostgreUno\DbPostgreUno\obj\Debug\net6.0-windows\DbPostgreUno.csproj.AssemblyReference.cache
+C:\Users\Latitude\source\repos\DbPostgreUno\DbPostgreUno\obj\Debug\net6.0-windows\DbPostgreUno.Form1.resources
+C:\Users\Latitude\source\repos\DbPostgreUno\DbPostgreUno\obj\Debug\net6.0-windows\DbPostgreUno.csproj.GenerateResource.cache
+C:\Users\Latitude\source\repos\DbPostgreUno\DbPostgreUno\obj\Debug\net6.0-windows\DbPostgreUno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Latitude\source\repos\DbPostgreUno\DbPostgreUno\obj\Debug\net6.0-windows\DbPostgreUno.AssemblyInfoInputs.cache
+C:\Users\Latitude\source\repos\DbPostgreUno\DbPostgreUno\obj\Debug\net6.0-windows\DbPostgreUno.AssemblyInfo.cs
+C:\Users\Latitude\source\repos\DbPostgreUno\DbPostgreUno\obj\Debug\net6.0-windows\DbPostgreUno.csproj.CoreCompileInputs.cache
+C:\Users\Latitude\source\repos\DbPostgreUno\DbPostgreUno\obj\Debug\net6.0-windows\DbPostgreUno.csproj.CopyComplete
+C:\Users\Latitude\source\repos\DbPostgreUno\DbPostgreUno\obj\Debug\net6.0-windows\DbPostgreUno.dll
+C:\Users\Latitude\source\repos\DbPostgreUno\DbPostgreUno\obj\Debug\net6.0-windows\refint\DbPostgreUno.dll
+C:\Users\Latitude\source\repos\DbPostgreUno\DbPostgreUno\obj\Debug\net6.0-windows\DbPostgreUno.pdb
+C:\Users\Latitude\source\repos\DbPostgreUno\DbPostgreUno\obj\Debug\net6.0-windows\DbPostgreUno.genruntimeconfig.cache
+C:\Users\Latitude\source\repos\DbPostgreUno\DbPostgreUno\obj\Debug\net6.0-windows\ref\DbPostgreUno.dll
+C:\Users\Latitude\source\repos\DbPostgreUno\DbPostgreUno\bin\Debug\net6.0-windows\Dapper.dll
+C:\Users\aguil\OneDrive\Escritorio\Programacion Visual\Ejercicios\DbPostgreUno\DbPostgreUno\bin\Debug\net6.0-windows\DbPostgreUno.exe
+C:\Users\aguil\OneDrive\Escritorio\Programacion Visual\Ejercicios\DbPostgreUno\DbPostgreUno\bin\Debug\net6.0-windows\DbPostgreUno.deps.json
+C:\Users\aguil\OneDrive\Escritorio\Programacion Visual\Ejercicios\DbPostgreUno\DbPostgreUno\bin\Debug\net6.0-windows\DbPostgreUno.runtimeconfig.json
+C:\Users\aguil\OneDrive\Escritorio\Programacion Visual\Ejercicios\DbPostgreUno\DbPostgreUno\bin\Debug\net6.0-windows\DbPostgreUno.dll
+C:\Users\aguil\OneDrive\Escritorio\Programacion Visual\Ejercicios\DbPostgreUno\DbPostgreUno\bin\Debug\net6.0-windows\DbPostgreUno.pdb
+C:\Users\aguil\OneDrive\Escritorio\Programacion Visual\Ejercicios\DbPostgreUno\DbPostgreUno\bin\Debug\net6.0-windows\Dapper.dll
+C:\Users\aguil\OneDrive\Escritorio\Programacion Visual\Ejercicios\DbPostgreUno\DbPostgreUno\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\aguil\OneDrive\Escritorio\Programacion Visual\Ejercicios\DbPostgreUno\DbPostgreUno\obj\Debug\net6.0-windows\DbPostgreUno.csproj.AssemblyReference.cache
+C:\Users\aguil\OneDrive\Escritorio\Programacion Visual\Ejercicios\DbPostgreUno\DbPostgreUno\obj\Debug\net6.0-windows\DbPostgreUno.Form1.resources
+C:\Users\aguil\OneDrive\Escritorio\Programacion Visual\Ejercicios\DbPostgreUno\DbPostgreUno\obj\Debug\net6.0-windows\DbPostgreUno.csproj.GenerateResource.cache
+C:\Users\aguil\OneDrive\Escritorio\Programacion Visual\Ejercicios\DbPostgreUno\DbPostgreUno\obj\Debug\net6.0-windows\DbPostgreUno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aguil\OneDrive\Escritorio\Programacion Visual\Ejercicios\DbPostgreUno\DbPostgreUno\obj\Debug\net6.0-windows\DbPostgreUno.AssemblyInfoInputs.cache
+C:\Users\aguil\OneDrive\Escritorio\Programacion Visual\Ejercicios\DbPostgreUno\DbPostgreUno\obj\Debug\net6.0-windows\DbPostgreUno.AssemblyInfo.cs
+C:\Users\aguil\OneDrive\Escritorio\Programacion Visual\Ejercicios\DbPostgreUno\DbPostgreUno\obj\Debug\net6.0-windows\DbPostgreUno.csproj.CoreCompileInputs.cache
+C:\Users\aguil\OneDrive\Escritorio\Programacion Visual\Ejercicios\DbPostgreUno\DbPostgreUno\obj\Debug\net6.0-windows\DbPostgreUno.csproj.CopyComplete
+C:\Users\aguil\OneDrive\Escritorio\Programacion Visual\Ejercicios\DbPostgreUno\DbPostgreUno\obj\Debug\net6.0-windows\DbPostgreUno.dll
+C:\Users\aguil\OneDrive\Escritorio\Programacion Visual\Ejercicios\DbPostgreUno\DbPostgreUno\obj\Debug\net6.0-windows\refint\DbPostgreUno.dll
+C:\Users\aguil\OneDrive\Escritorio\Programacion Visual\Ejercicios\DbPostgreUno\DbPostgreUno\obj\Debug\net6.0-windows\DbPostgreUno.pdb
+C:\Users\aguil\OneDrive\Escritorio\Programacion Visual\Ejercicios\DbPostgreUno\DbPostgreUno\obj\Debug\net6.0-windows\DbPostgreUno.genruntimeconfig.cache
+C:\Users\aguil\OneDrive\Escritorio\Programacion Visual\Ejercicios\DbPostgreUno\DbPostgreUno\obj\Debug\net6.0-windows\ref\DbPostgreUno.dll
